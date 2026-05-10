@@ -165,8 +165,8 @@ MAX_GRAD_NORM   = 0.3
 
 ## Benchmark Results
 
-![Benchmark Chart](benchmark_chart.png)
-![Training Curves](training_curves.png)
+![Benchmark Chart](download.png)
+![Training Curves](download1.png)
 
 **Best performing tasks (fully correct):**
 `ls-l`, `mkdir`, `find-py`, `cp-r`, `rm-rf`, `chmod`, `awk-sum`,
@@ -199,8 +199,8 @@ MAX_GRAD_NORM   = 0.3
 
 ## Links
 
-- Training notebook: https://github.com/safoura-banihashemi/qwen3-terminal-grpo
-- Dataset: safoura00/qwen3-terminal-tasks
+- Fine-tuned model: [https://github.com/safoura-banihashemi/qwen3-terminal-grpo](https://huggingface.co/safoura00/qwen3-terminal-grpo)
+- Dataset: [safoura00/qwen3-terminal-tasks](https://huggingface.co/datasets/safoura00/qwen3-terminal-tasks)
 - Base model: https://huggingface.co/Qwen/Qwen3-0.6B
 
 ### Links
